@@ -1,0 +1,33 @@
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  padding: 3px;
+}
+
+ul {
+  background-color: #2F3030;
+  display: block;
+  font-family: 'Roboto', sans-serif;
+  line-height: 50px;
+  margin: 3px;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  padding: 0px;
+  width: 8%;
+}
+
+a {
+  color: white;
+  display: block;
+  text-align: center;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #FFC107;
+  color: black;
+  cursor: pointer;
+}
